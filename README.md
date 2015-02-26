@@ -1,7 +1,7 @@
 # pu
 pu li pu a
 
-## nimi kulupu
+## nimi
 
 a
 akesi
@@ -124,7 +124,7 @@ wawa
 weka
 wile
 
-## nimi ali
+## nimi
 
 * a
 * akesi
